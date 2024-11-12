@@ -1,2 +1,6 @@
 # sigma-demo
 This is a demo for git and github
+# Teacher 
+Apna college 
+# Student 
+Malay Maity
